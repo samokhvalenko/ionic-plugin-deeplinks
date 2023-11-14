@@ -1,8 +1,8 @@
 {
-  "name": "ionic-plugin-deeplinks",
-  "version": "1.0.24",
+  "name": "@samokhvalenko/ionic-plugin-deeplinks",
+  "version": "1.1.0",
   "cordova": {
-    "id": "ionic-plugin-deeplinks",
+    "id": "@samokhvalenko/ionic-plugin-deeplinks",
     "platforms": [
       "android",
       "ios"
