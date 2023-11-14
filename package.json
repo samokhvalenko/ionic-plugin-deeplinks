@@ -1,16 +1,16 @@
 {
-  "name": "@samokhvalenko/ionic-plugin-deeplinks",
+  "name": "@stanislavproizd/ionic-plugin-deeplinks",
   "version": "1.1.0",
   "cordova": {
-    "id": "@samokhvalenko/ionic-plugin-deeplinks",
+    "id": "@stanislavproizd/ionic-plugin-deeplinks",
     "platforms": [
       "android",
       "ios"
     ]
   },
   "description": "Ionic Deeplinks Plugin",
-  "repository": "https://github.com/ionic-team/ionic-plugin-deeplinks.git",
-  "issue": "https://github.com/ionic-team/ionic-plugin-deeplinks/issues",
+  "repository": "https://github.com/samokhvalenko/ionic-plugin-deeplinks",
+  "issue": "https://github.com/samokhvalenko/ionic-plugin-deeplinks/issues",
   "keywords": [
     "ionic",
     "cordova",
